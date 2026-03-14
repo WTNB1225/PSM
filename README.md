@@ -6,6 +6,11 @@
 yarn install
 yarn start
 ```
+or
+```bash
+yarn install
+yarn start
+```
 
 ## Docker 実行
 
